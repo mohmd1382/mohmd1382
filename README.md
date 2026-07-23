@@ -2,9 +2,13 @@
 
 # Hi, I'm Mohammad Tamaddon 👋
 
-### Frontend Developer · React & Next.js
+### Frontend Developer · Product Builder
 
-I build responsive, user-friendly web applications with a focus on clean interfaces, maintainable code, and practical product experiences.
+## Latticeward Labs
+
+**Ideas, Built Forward.**
+
+We are a product-focused team turning ambitious ideas into thoughtful, useful digital experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-wine-91.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tamaddon-12160a224)
@@ -14,10 +18,37 @@ I build responsive, user-friendly web applications with a focus on clean interfa
 ## About Me
 
 - 💻 Frontend developer specializing in **React, Next.js, and TypeScript**
-- 🎨 Interested in turning thoughtful UI/UX designs into polished products
-- 🚀 Building product-focused web applications and improving my full-stack skills
-- 🌱 Currently exploring modern Next.js architecture and scalable frontend patterns
-- 🤝 Open to frontend opportunities, freelance projects, and collaboration
+- 🧩 Building products with **Latticeward Labs**
+- 🎨 Turning thoughtful UI/UX ideas into polished, practical experiences
+- 🚀 Interested in product strategy, scalable architecture, and meaningful technology
+- 🤝 Open to frontend opportunities, product collaborations, and ambitious ideas
+
+## Latticeward Labs
+
+**Latticeward Labs** is a collaborative product team focused on designing and building digital products that solve real problems.
+
+Our approach combines:
+
+- Product thinking and clear strategy
+- Human-centered UI/UX design
+- Maintainable software engineering
+- Fast learning through focused MVPs
+- Long-term, scalable product development
+
+## Featured Project: Music Copilot
+
+**Music Copilot** is our first product initiative: an Android music experience designed to reduce distracting interactions while driving.
+
+### MVP Focus
+
+- Local music playback
+- Driving Mode with a simplified interface
+- Push-to-Talk voice control
+- Direct commands for essential playback actions
+- Bluetooth-friendly behavior
+- Stable background and lock-screen playback
+
+The first release is intentionally focused on validating whether voice control can make everyday music interaction safer and simpler for drivers.
 
 ## Tech Stack
 
@@ -36,22 +67,26 @@ I build responsive, user-friendly web applications with a focus on clean interfa
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
 
 ## What I Care About
 
-- Responsive and accessible user interfaces
+- Accessible, responsive, and intuitive interfaces
 - Reusable components and clean project structure
 - Performance and smooth user experiences
-- Translating real product needs into useful features
+- Translating real user needs into focused product features
+- Building products collaboratively, one validated step at a time
 
 ## Let's Connect
 
-If you have a frontend role, freelance project, or an interesting product idea, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/mohammad-tamaddon-12160a224) or view my work on my [portfolio](https://portfolio-pi-wine-91.vercel.app/).
+If you are interested in frontend development, product collaboration, or the work we are doing at **Latticeward Labs**, connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-tamaddon-12160a224) or explore my [portfolio](https://portfolio-pi-wine-91.vercel.app/).
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+### Latticeward Labs
+
+**Ideas, Built Forward.**
 
 </div>
